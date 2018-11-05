@@ -1,2 +1,2 @@
-# jubilant-train
+# NNfashion
 Neural network fashion image classification
